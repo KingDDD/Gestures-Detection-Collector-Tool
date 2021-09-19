@@ -1,0 +1,7 @@
+thumbs_up,thumbs_up.jpg
+double_l,double_l.jpg
+double_hand,double_hand.jpg
+fists,fists_up.jpg
+2_rand_gestures_1,mrm.jpg
+2_rand_gestures_2,mrm.jpg
+cycle_gesutes,lightning_round.jpg

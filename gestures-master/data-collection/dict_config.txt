@@ -1,0 +1,9 @@
+open_hand,open_hand.jpg
+l_finger,l_finger.jpg
+pointer,pointer.jpg
+thumb_down,thumb_down.jpg
+thumb_up,thumb_up.jpg
+fist,fist.jpg
+c_hand,c_hand.jpg
+pinch,pinch.jpg
+ok,ok.jpg

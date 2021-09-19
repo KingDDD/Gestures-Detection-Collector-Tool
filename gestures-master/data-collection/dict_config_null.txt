@@ -1,0 +1,7 @@
+devil_horns,devil_horns.jpg
+shaka,shaka.jpg
+the_finger,the_finger.jpg
+three,three.jpg
+arm,gestures_everywhere.jpg
+peace,peace.jpg
+pinky,pinky.jpg
